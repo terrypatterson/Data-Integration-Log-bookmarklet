@@ -1,5 +1,5 @@
 # Data-Integration-Log-bookmarklet
-Sort Data Integration drop down to be in order alphabetically 
+This javascript bookmarklet will sort the Data Integration drop down on the logs page within Blackboard Learn to be in order alphabetically. Therefore making it much easier to find integrations when looking for log data.
 
 
 ## How to Create the bookmarklet
