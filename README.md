@@ -33,3 +33,5 @@ function sortSelectOptions(selectId) { var select = document.getElementById(sele
 #### Image Example of what the bookmarklet does
 
 ![A screenshot of the dropdown menu from the data integration page displaying before and after. The left side of the image displays before using the bookmarklet, the right shows after using it.](https://i.ibb.co/h8sK3d7/2024-05-03-12-46-56.png)
+
+Thank you to freecodecamp.org for instructions on how to create a bookmarklet. Source: https://www.freecodecamp.org/news/what-are-bookmarklets/
